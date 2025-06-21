@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Harmonic Vigil</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #282c34; /* Dark background */
+            color: #f8f8f2; /* Light text */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+        .container {
+            background-color: #3b3f46; /* Slightly lighter container */
+            padding: 40px 60px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            max-width: 800px;
+            width: 100%;
+        }
+        h1 {
+            color: #61dafb; /* Accent color for title */
+            margin-bottom: 20px;
+            font-size: 2.5em;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            margin-bottom: 25px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #a87eeb; /* Another accent color for button */
+            color: #ffffff;
+            padding: 12px 25px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #8c5cdb;
+        }
+        .footer-note {
+            font-size: 0.8em;
+            color: #888;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>The Harmonic Vigil</h1>
+        <p>Step into a mythologized New York City, where ancient energies stir beneath the mundane. Join **MisterBain** and the clandestine **Capsulocity Network** to uncover hidden dissonances and combat unseen forces that threaten the city's very soul.</p>
+        <p>Harness the **Sonic Echoes of jazz legends**, utilize **Visual Thaumaturgy**, and awaken the latent powers of the "Unknowing" to restore harmony.</p>
+        <a href="#" class="button">Begin Your Journey</a>
+        <p class="footer-note">A dynamically generated interactive storytelling experience.</p>
+    </div>
+</body>
+</html>
